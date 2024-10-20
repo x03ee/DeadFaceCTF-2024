@@ -41,6 +41,9 @@
 
 - **Description:** This challenge involved multiple decoding steps. I first converted a hex string to its ASCII representation, then applied the ROT47 cipher, and finally decoded the result from base64 to obtain the flag.
 - **Tools Used:** Hex conversion, ROT47, and base64 decoding
+
 ![image](https://github.com/x03ee/DeadFaceCTF-2024/blob/main/Mal-Where%20is%20My%20Mind/Mal-Where%20is%20My%20Mind%2004/order.png)
+
 ![image](https://github.com/x03ee/DeadFaceCTF-2024/blob/main/Mal-Where%20is%20My%20Mind/Mal-Where%20is%20My%20Mind%2004/flag.txt.png)
+
 - **Flag:** `flag{Ph'nglui_mglw'nafn_Cthulhu_R'lyeh_wgah'nagl_fhtagn}`
