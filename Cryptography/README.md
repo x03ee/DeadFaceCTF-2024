@@ -34,4 +34,4 @@
 
 ![image3](https://github.com/x03ee/DeadFaceCTF-2024/blob/main/Cryptography/Social%20Pressure/flag.png)
 
-- **Flag:** `flag{Elroy Ongaro}`
+- **Flag:** `flag{Elroy_Ongaro}`
