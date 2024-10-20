@@ -2,7 +2,6 @@
 
 ![image](https://github.com/x03ee/DeadFaceCTF-2024/blob/main/Hostbusters/HostBusters1/solution.png)
 
-- **Description:** [Provide a brief description of the challenge here, if necessary.]
 - **Flag:** `flag{hostbusters1_e361b9b8352eea50}`
 
 ---
@@ -13,7 +12,6 @@
 
 ![image3](https://github.com/x03ee/DeadFaceCTF-2024/blob/main/Hostbusters/HostBusters2/flag.png)
 
-- **Description:** [Provide a brief description of the challenge here, if necessary.]
 - **Flag:** `flag{hostbusters2_0a2e2dd0461a7fd3}`
 
 ---
@@ -22,7 +20,6 @@
 
 ![image4](https://github.com/x03ee/DeadFaceCTF-2024/blob/main/Hostbusters/HostBusters3/flag.png)
 
-- **Description:** [Provide a brief description of the challenge here, if necessary.]
 - **Flag:** `flag{hostbusters3_ff07d6fb5ee992f6}`
 
 ---
@@ -31,5 +28,4 @@
 
 ![image5](https://github.com/x03ee/DeadFaceCTF-2024/blob/main/Hostbusters/HostBusters4/flag.png)
 
-- **Description:** [Provide a brief description of the challenge here, if necessary.]
 - **Flag:** `flag{hostbusters4_3dbd2ed4c572b7ea}`
